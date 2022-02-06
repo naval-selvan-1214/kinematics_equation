@@ -25,7 +25,11 @@ So we get
  <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp2.gif"><br>
 </p>
 
-We can say that   ***angular velocity of IDU = (r/R) * [W1 + W2+ W3]***  
+We can say that
+<p align="center">
+ <img  width="300" height="50" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step4.gif"><br>
+</p>
+where W1, W2, W3 are anguler velocities of omni wheels in IDU. **"r"** and **"R"** are radii of omni wheel and outer sphere respectively.
 
 So by substituting the values in the relation that we have , we get 
 
