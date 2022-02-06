@@ -13,7 +13,7 @@ So **Rotation matricies** of sphere with respect to the arena are :
  <img  width="300" height="150"  src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/x_rot_matrix.gif"><br>
 </p>
 
-Here let **(Wr)actual**  be the actual angular velocity of the outersphere with respect to the arena and **(Wr)IDU**  be the angular velocity of the internal driving unit. So we get
+Here let **(Wr)actual**  be the actual angular velocity of the outersphere with respect to the arena and **(Wr)IDU**  be the angular velocity of the internal driving unit. Then ,
 
 <p align="center">
  <img  width="300" height="50" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/formula.gif"><br>
@@ -29,7 +29,7 @@ We can say that
 <p align="center">
  <img  width="300" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/m1step.gif"><br>
 </p>
-where W1, W2, W3 are anguler velocities of omni wheels in IDU. **"r"** and **"R"** are radii of omni wheel and outer sphere respectively.
+where W1, W2, W3 are anguler velocities of omni wheels in IDU. **r and R**are radii of omni wheel and outer sphere respectively.
 
 So by substituting the values in the relation that we have , we get 
 
