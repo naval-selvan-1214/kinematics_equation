@@ -21,13 +21,13 @@ Here let **(Wr)actual**  be the actual angular velocity of the outersphere with 
 
 So we get 
 <p align="center">
- <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp1.gif"><br><br>
- <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp2.gif"><br>
+ <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step1.gif"><br><br>
+ <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step2.gif"><br>
 </p>
 
 We can say that
 <p align="center">
- <img  width="300" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/m1step.gif"><br>
+ <img  width="300" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step3.gif"><br>
 </p>
 where W1, W2, W3 are anguler velocities of omni wheels in IDU. 'R' and 'r' are radii of outer sphere and omni wheel respectively.
 Also , from the diagram we can resolute the angular velocity components as<br><br>
@@ -42,5 +42,5 @@ So by substituting the values in the relation that we have , we get
 
 Finally, by rearranging it we get the equation for knowing the magnitude of angular velocities of each omni wheel .
 <p align="center">
- <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step last.gif"><br>
+ <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step5.gif"><br>
 </p>
