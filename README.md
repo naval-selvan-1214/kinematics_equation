@@ -7,4 +7,6 @@ Servo motors are used to control the movement of omni wheels.
 </p>
 
 # Kinematics of Gyrosphere
-Let the rotation of the sphere about the Z axis be ɸ<br>and
+Let the rotation of the sphere about the Z axis be ɸ.<br>
+Let the rotation of the sphere with respect to its centre about X axis be Ө.<br>
+So Rotation matrices for the sphere about Z and X axes are 
