@@ -1,1 +1,2 @@
-# kinematics_equation
+# Model of Gyrosphere
+## URDF
