@@ -16,7 +16,7 @@ So **Rotation matricies** of sphere with respect to the arena are :
 Here let **(Wr)actual**  be the actual angular velocity of the outersphere with respect to the arena and **(Wr)IDU**  be the angular velocity of the internal driving unit. So we get
 
 <p align="center">
- <img  width="500" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/formula.gif"><br>
+ <img  width="300" height="50" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/formula.gif"><br>
 </p>
 
 So we get 
