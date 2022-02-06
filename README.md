@@ -21,5 +21,5 @@ Here let **(Wr)actual**  be the actual angular velocity of the outersphere with 
 
 So by get 
 <p align="center">
- <img  width="600" height="275" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp1.gif"><br>
+ <img  width="900" height="275" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp1.gif"><br>
 </p>
