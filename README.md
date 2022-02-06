@@ -18,3 +18,8 @@ Here let **(Wr)actual**  be the actual angular velocity of the outersphere with 
 <p align="center">
  <img  width="500" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/formula.gif"><br>
 </p>
+
+So by get 
+<p align="center">
+ <img  width="600" height="450" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step1.gif"><br>
+</p>
