@@ -13,6 +13,6 @@ So **Rotation matricies** of sphere with respect to the arena are :
 </p>
 
 (Wr )actual is given as 
-<p align="center">
+<p>
  <img  width="100" height="25" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/w_actual.gif">
 </p>
