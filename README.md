@@ -11,6 +11,6 @@ Let the rotation of the sphere about the Z axis be ɸ.<br>
 Let the rotation of the sphere with respect to its centre about X axis be θ.<br>
 So Rotation matrices for the sphere about Z and X axes are 
 <p align="center">
- <img  width="600" height="500" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/z_rot_matrix.gif">
- <img  width="600" height="500" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/x_rot_matrix.gif"><br>
+ <img  width="400" height="250" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/z_rot_matrix.gif">
+ <img  width="400" height="250" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/x_rot_matrix.gif"><br>
 </p>
