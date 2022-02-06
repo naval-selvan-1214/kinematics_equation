@@ -30,5 +30,5 @@ We can say that   ***angular velocity of IDU = (r/R) * [W1 + W2+ W3]***
 So by substituting the values in the relation that we have , we get 
 
 <p align="center">
- <img  width="500" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step3.gif"><br>
+ <img  width="500" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step4.gif"><br>
 </p>
