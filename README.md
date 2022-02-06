@@ -25,4 +25,4 @@ So we get
  <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp2.gif"><br>
 </p>
 
-We can say that ***angular velocity of IDU = (r/R)[W1 + W2+ W3]***  
+We can say that   ***angular velocity of IDU = (r/R) * [W1 + W2+ W3]***  
