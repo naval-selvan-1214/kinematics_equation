@@ -8,6 +8,8 @@ The Sphere model consists of an **Internal driving unit (IDU)** enclosed by two 
 Let the angle of rotation of sphere about Z axis be ɸ. Let the angle of rotation of sphere with respect to its centre about X axis be θ.<br>
 So **Rotation matricies** of sphere with respect to the arena are : 
 <p align="center">
- <img  width="300" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/z_rot_matrix.gif">
- <img  width="300" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/x_rot_matrix.gif"><br>
+ <img  width="300" height="150" style="display:inline"; src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/z_rot_matrix.gif">
+ <img  width="300" height="150" style="display:inline"; src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/x_rot_matrix.gif"><br>
 </p>
+
+
