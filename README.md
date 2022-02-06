@@ -27,7 +27,7 @@ So we get
 
 We can say that
 <p align="center">
- <img  width="300" height="50" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step4.gif"><br>
+ <img  width="300" height="50" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step3.gif"><br>
 </p>
 where W1, W2, W3 are anguler velocities of omni wheels in IDU. **"r"** and **"R"** are radii of omni wheel and outer sphere respectively.
 
