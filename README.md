@@ -14,3 +14,7 @@ So **Rotation matricies** of sphere with respect to the arena are :
 </p>
 
 Here let **(Wr)actual**  be the actual angular velocity of the outersphere with respect to the arena and **(Wr)IDU**  be the angular velocity of the internal driving unit. So we get
+
+<p align="center">
+ <img  width="200" height="75" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/gyro_matplotlib-model.png"><br>
+</p>
