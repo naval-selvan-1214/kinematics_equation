@@ -19,7 +19,10 @@ Here let **(Wr)actual**  be the actual angular velocity of the outersphere with 
  <img  width="500" height="100" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/formula.gif"><br>
 </p>
 
-So by get 
+So we get 
 <p align="center">
  <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/stp1.gif"><br>
+</p>
+<p align="center">
+ <img  width="650" height="150" src="https://github.com/naval-selvan-1214/kinematics_equation/blob/main/media/step4.gif"><br>
 </p>
